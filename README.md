@@ -1,2 +1,2 @@
 # usrRS
-Custom usrcode for NekRS - v24
+Custom usrcode for NekRS - v26
